@@ -8,7 +8,7 @@ this team is amazing as you can see:
 
 -------------
 
-**1. Idrees iqbal** ![idrees](https://raw.githubusercontent.com/Maarten-Vandaele/TheRoyalGitClub/idrees/idrees.jpg | width=100)
+**1. Idrees iqbal** ![idrees](https://raw.githubusercontent.com/Maarten-Vandaele/TheRoyalGitClub/idrees/idrees.jpg)
 link to my github profile: http://github.com/Idreesqbal
 
 **GOAL**
