@@ -1,5 +1,6 @@
 # TheRoyalGitClub
 Group 4 final GIT exercise
+![ourLogo] (https://ibb.co/2cD9Qjv)
 # GIT ROYAL TEAM 
 
 this team is amazing as you can see;
