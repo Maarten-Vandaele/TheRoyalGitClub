@@ -1,5 +1,5 @@
 # TheRoyalGitClub
-![Example](https://github.com/Fragrag/blender_lifting/blob/master/doc/example.png)
+![Example](https://raw.githubusercontent.com/Maarten-Vandaele/TheRoyalGitClub/Haryo/logo.png)
 Group 4 final GIT exercise
 
 ## Haryo Sukmawanto
