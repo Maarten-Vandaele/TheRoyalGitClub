@@ -28,7 +28,24 @@ I'm following the BeCode course to learn new skills, to overcome my anxieties by
 
 _"Drink, drink. Fan, fan. Rub, rub"_ -Vice-Admiral Horatio Nelson
 
+-------------------
+
 **3. Maarten Vandeale**
+
+![Maarten](https://raw.githubusercontent.com/Maarten-Vandaele/TheRoyalGitClub/M>
+
+Github: Maarten-Vandaele
+
+I want to combine video audio skills with new AI skills to turn a new direction
+in my carriere.
+
+Succes consists of going from failure to failure without loss of enthusiasm
+-Winston Churchill
+
+
+---------------------
+
+
 **4. Sanjay Jonckheere** 
 
 
