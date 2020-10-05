@@ -1,11 +1,11 @@
 # TheRoyalGitClub
-![Example](https://raw.githubusercontent.com/Maarten-Vandaele/TheRoyalGitClub/Haryo/logo.png)
-Group 4 final GIT exercise
+![The Royal Git Club](https://raw.githubusercontent.com/Maarten-Vandaele/TheRoyalGitClub/Haryo/logo.png)
 
 ## Haryo Sukmawanto
 _InsertImageHere_
+![Haryo](https://raw.githubusercontent.com/Maarten-Vandaele/TheRoyalGitClub/Haryo/HaryoS.jpg)
 https://github.com/haryo-s
 
-I'm following the BeCode course to learn new skills, to overcome my anxieties and push my boundaries and to make my hobby into my career.
+I'm following the BeCode course to learn new skills, to overcome my anxieties by pushing my boundaries and to make my hobby into my career.
 
-_"Drink, drink. Fan, fan. Rub, rub"_ -Vice-Admiral Horatio Nelso
+_"Drink, drink. Fan, fan. Rub, rub"_ -Vice-Admiral Horatio Nelson
