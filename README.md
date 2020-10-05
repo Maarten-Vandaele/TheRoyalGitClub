@@ -5,7 +5,7 @@ Group 4 final GIT exercise
 
 this team is amazing as you can see;
 
-1. **Idrees iqbal**  ![idrees] (https://ibb.co/2j3zjhB)
+1. **Idrees iqbal**  ![idrees] (https://raw.githubusercontent.com/Maarten-Vandaele/TheRoyalGitClub/idrees/idrees.jpg)
 link to my github profile: http://github.com/Idreesqbal
 **GOAL**
 To become a good DataScientist
